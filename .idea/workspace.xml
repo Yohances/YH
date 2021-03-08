@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca4cb9db-afb1-4b39-897e-df63d7a40009" name="默认的" comment="">
-      <change beforePath="$PROJECT_DIR$/aqjg.html" beforeDir="false" afterPath="$PROJECT_DIR$/aqjg.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dtds.html" beforeDir="false" afterPath="$PROJECT_DIR$/dtds.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/aqjg/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/aqjg/4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life-8.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/life-8.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life-9.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/life-9.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/profile_image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jgxt.html" beforeDir="false" afterPath="$PROJECT_DIR$/jgxt.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sjtj.html" beforeDir="false" afterPath="$PROJECT_DIR$/sjtj.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xylt.html" beforeDir="false" afterPath="$PROJECT_DIR$/xylt.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yfjs.html" beforeDir="false" afterPath="$PROJECT_DIR$/yfjs.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zhcs.html" beforeDir="false" afterPath="$PROJECT_DIR$/zhcs.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +66,7 @@
       <option name="presentableId" value="Default" />
       <updated>1615107335886</updated>
       <workItem from="1615107337218" duration="7774000" />
-      <workItem from="1615167992727" duration="2101000" />
+      <workItem from="1615167992727" duration="2644000" />
     </task>
     <servers />
   </component>
