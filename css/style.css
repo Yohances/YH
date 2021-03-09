@@ -1,4 +1,4 @@
-@charset "UTF-8";
+.fh5co-project-item .fh5co-text@charset "UTF-8";
 /*==============================
 ** Main Scss
 ==============================*/
@@ -1852,7 +1852,7 @@ span.single-timeline-horizontal {
 }
 
 .fh5co-project-item .fh5co-text {
-  padding: 0 10px 10px 20px;
+  padding: 0 20px 10px 20px;
   text-align: center;
 }
 
